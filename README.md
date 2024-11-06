@@ -12,3 +12,8 @@ a. **Optimize the model using Grid Search or Random Search** for hyperparameters
 
 b. **Evaluate the model's performance** using metrics such as accuracy, F1-score, and ROC-AUC.
 
+---
+
+### Solution
+- **Google Colab Notebook**: [Access the Colab Notebook for this project](https://colab.research.google.com/drive/1BkuAv0PeRZcc96o8B4j2YHznnsJRxW4j?usp=sharing)
+
